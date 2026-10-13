@@ -1,0 +1,26 @@
+base,variant,cosine,percentile
+740[jar (U with two ears)],741[jar with inner stroke],0.058,0.763
+740[jar (U with two ears)],742[jar with three-pronged ears],0.03,0.512
+740[jar (U with two ears)],745[jar with fringe],0.027,0.48
+740[jar (U with two ears)],760[jar with tufted ears],0.074,0.844
+740[jar (U with two ears)],700[cup (U-shape)],0.007,0.191
+740[jar (U with two ears)],705[cup with inner stroke],0.027,0.481
+740[jar (U with two ears)],706[cup with inner dot],0.022,0.417
+740[jar (U with two ears)],752[cup with two flags],0.086,0.885
+220[fish],226[fish between stroke pairs],0.142,0.973
+220[fish],231[fish with inner dot],0.137,0.97
+220[fish],233[fish with fins (side strokes)],0.224,0.995
+220[fish],235[fish with roof (chevron above)],0.186,0.989
+220[fish],236[fish with roof between strokes],0.115,0.945
+220[fish],240[fish with cross-hatched body],0.142,0.973
+90[standing man],100[man with appendages],0.029,0.503
+90[standing man],125[man inside arc],0.0,0.081
+90[standing man],142[man with ladder and stroke],0.011,0.257
+90[standing man],151[man carrying two pots (yoke-bearer)],0.042,0.634
+2[2 short strokes],1[1 short stroke],0.128,0.962
+2[2 short strokes],3[3 short strokes],0.048,0.686
+2[2 short strokes],4[4 short strokes],0.003,0.127
+2[2 short strokes],5[5 short strokes],0.023,0.424
+2[2 short strokes],32[2 long strokes],0.04,0.621
+2[2 short strokes],33[3 long strokes],0.041,0.627
+2[2 short strokes],31[1 long stroke],0.087,0.891

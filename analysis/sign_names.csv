@@ -1,0 +1,103 @@
+sign,name,class_by_shape
+1,1 short stroke,stroke numeral
+2,2 short strokes,stroke numeral
+3,3 short strokes,stroke numeral
+4,4 short strokes,stroke numeral
+5,5 short strokes,stroke numeral
+13,3 strokes (2 over 1),stroke numeral
+15,3 small strokes (2 over 1),stroke numeral
+16,6 strokes (3 over 3),stroke numeral
+17,7 strokes (4 over 3),stroke numeral
+18,8 strokes (4 over 4),stroke numeral
+55,12 strokes (3 rows of 4),stroke numeral
+56,"stroke array (3 rows of 4, variant)",stroke numeral
+31,1 long stroke,long stroke
+32,2 long strokes,long stroke
+33,3 long strokes,long stroke
+34,2 long strokes (variant),long stroke
+35,4 long strokes,long stroke
+48,strokes in brackets,stroke numeral
+60,two strokes and arc,stroke/arc
+61,bent stroke (lambda),stroke/arc
+90,standing man,human
+91,two men,human
+100,man with appendages,human
+104,man with legs (variant),human
+125,man inside arc,human
+140,winged insect,animal
+142,man with ladder and stroke,human
+151,man carrying two pots (yoke-bearer),human
+154,yoke-bearer variant,human
+156,winged insect with antennae,animal
+176,crab/claw sign,animal
+220,fish,fish
+222,fish in brackets,fish
+226,fish between stroke pairs,fish
+231,fish with inner dot,fish
+233,fish with fins (side strokes),fish
+235,fish with roof (chevron above),fish
+236,fish with roof between strokes,fish
+240,fish with cross-hatched body,fish
+241,fish (variant with strokes),fish
+243,fish with hatched body and roof,fish
+255,hatched curved sign (horn/claw),animal
+368,flag,object
+388,leafy branch,plant
+390,three-pronged branch,plant
+400,comb/rake (E-shaped),object
+405,branch with tines,plant
+407,branch with tines (variant),plant
+413,herringbone branch,plant
+415,rake on pole,object
+416,rake on pole (variant),object
+435,hook,object
+440,inverted L (staff),object
+455,double triangle on stroke,geometric
+460,three peaks,geometric
+500,triangle,geometric
+501,triangle with inner stroke,geometric
+503,hatched cone,geometric
+520,arrow,object
+527,half-ladder (comb),object
+530,hourglass/X-frame,geometric
+550,hourglass with open side,geometric
+575,pot on stand/bag,object
+585,trident-arrow on stand,object
+590,square on post (standard),object
+595,box on post,object
+615,grid (rectangle),geometric
+617,grid (square),geometric
+621,partitioned rectangle,geometric
+630,box with strokes,geometric
+636,box with inner marks,geometric
+690,X between brackets,geometric
+692,X,geometric
+700,cup (U-shape),vessel
+705,cup with inner stroke,vessel
+706,cup with inner dot,vessel
+740,jar (U with two ears),vessel
+741,jar with inner stroke,vessel
+742,jar with three-pronged ears,vessel
+745,jar with fringe,vessel
+752,cup with two flags,vessel
+760,jar with tufted ears,vessel
+790,circle,circle/oval
+798,two facing arcs,circle/oval
+803,leaf with branching veins,plant
+806,leaf with veins (variant),plant
+817,oval with inverted-V,circle/oval
+820,oval with spokes,circle/oval
+832,oval with inner dot,circle/oval
+840,two intersecting ovals,circle/oval
+845,intersecting circles with marks,circle/oval
+850,diamond,circle/oval
+861,diamond with chevron,circle/oval
+892,D-shape with stroke,arc
+900,arc ),arc
+904,double arc )),arc
+920,arc with bulge,arc
+923,crescent,arc
+6,6 short strokes,stroke numeral
+7,7 short strokes,stroke numeral
+14,3 strokes (1 over 2),stroke numeral
+19,10 strokes (5 over 5),stroke numeral

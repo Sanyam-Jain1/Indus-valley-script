@@ -1,0 +1,28 @@
+tokens with an assigned role: 59.3%
+most common text skeletons:
+    84  X JAR
+    62  X CLOSE
+    54  X X
+    52  X JAR CLOSE
+    48  X X X JAR
+    43  NUM CLOSE
+    41  X X JAR
+    34  X X CLOSE
+    30  NUM BRANCH
+    29  X BRANCH DBL FISH CLOSE
+    26  OPEN DBL X JAR
+    26  X X X
+    25  OPEN DBL NUM BRANCH
+    25  FISH X JAR
+    25  FISH CLOSE
+    25  X X JAR CLOSE
+    24  LS3 X
+    19  NUM X JAR
+    18  LS2 X
+    17  X
+    16  OPEN DBL X X JAR
+    15  X X X JAR CLOSE
+    14  OPEN DBL FISH X JAR
+    13  X LS2 JAR
+    12  NUM X
+examples: ['C-66', 'H-1667', 'H-352', 'H-53', 'Krs-2', 'H-669', 'C-59']

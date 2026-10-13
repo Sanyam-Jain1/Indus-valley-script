@@ -1,0 +1,238 @@
+ngram_reading_order,labels,n,count,pmi
+861 2,861[diamond with chevron] + 2[2 short strokes],2,115,3.74
+817 2,817[oval with inverted-V] + 2[2 short strokes],2,93,3.83
+740 400,740[jar (U with two ears)] + 400[comb/rake (E-shaped)],2,84,1.98
+820 2,820[oval with spokes] + 2[2 short strokes],2,69,3.03
+760 740,760[jar with tufted ears] + 740[jar (U with two ears)],2,65,3.07
+100 740,100[man with appendages] + 740[jar (U with two ears)],2,62,3.02
+740 90,740[jar (U with two ears)] + 90[standing man],2,58,2.75
+705 33,705[cup with inner stroke] + 33[3 long strokes],2,54,5.03
+176 740,176[crab/claw sign] + 740[jar (U with two ears)],2,51,2.56
+920 60,920[arc with bulge] + 60[two strokes and arc],2,47,4.78
+32 220,32[2 long strokes] + 220[fish],2,47,3.17
+590 390,590[square on post (standard)] + 390[three-pronged branch],2,44,4.34
+33 520,33[3 long strokes] + 520[arrow],2,37,3.78
+415 220,415[rake on pole] + 220[fish],2,35,4.11
+32 740,32[2 long strokes] + 740[jar (U with two ears)],2,33,0.59
+2 240,2[2 short strokes] + 240[fish with cross-hatched body],2,32,1.64
+390 740,390[three-pronged branch] + 740[jar (U with two ears)],2,31,0.85
+220 520,220[fish] + 520[arrow],2,31,2.93
+590 390 740,590[square on post (standard)] + 390[three-pronged branch] + 740[jar (U with two ears)],3,30,7.0
+2 32,2[2 short strokes] + 32[2 long strokes],2,30,1.35
+706 33,706[cup with inner dot] + 33[3 long strokes],2,29,5.09
+255 435,255[hatched curved sign (horn/claw)] + 435[hook],2,29,6.9
+60 741,60[two strokes and arc] + 741[jar with inner stroke],2,28,3.55
+920 60 741,920[arc with bulge] + 60[two strokes and arc] + 741[jar with inner stroke],3,28,10.04
+798 740,798[two facing arcs] + 740[jar (U with two ears)],2,28,1.63
+235 240,235[fish with roof (chevron above)] + 240[fish with cross-hatched body],2,28,3.25
+690 740,690[X between brackets] + 740[jar (U with two ears)],2,27,2.54
+220 740,220[fish] + 740[jar (U with two ears)],2,26,0.17
+692 60,692[X] + 60[two strokes and arc],2,26,5.15
+2 235,2[2 short strokes] + 235[fish with roof (chevron above)],2,26,1.71
+2 803,2[2 short strokes] + 803[leaf with branching veins],2,25,2.33
+923 740,923[crescent] + 740[jar (U with two ears)],2,25,3.1
+415 100,415[rake on pole] + 100[man with appendages],2,25,5.22
+415 100 740,415[rake on pole] + 100[man with appendages] + 740[jar (U with two ears)],3,21,8.18
+435 690,435[hook] + 690[X between brackets],2,21,6.86
+705 33 520,705[cup with inner stroke] + 33[3 long strokes] + 520[arrow],3,21,9.39
+840 32,840[two intersecting ovals] + 32[2 long strokes],2,20,3.87
+2 32 220,2[2 short strokes] + 32[2 long strokes] + 220[fish],3,20,6.05
+550 60,550[hourglass with open side] + 60[two strokes and arc],2,20,4.07
+255 435 690,255[hatched curved sign (horn/claw)] + 435[hook] + 690[X between brackets],3,20,13.96
+820 60,820[oval with spokes] + 60[two strokes and arc],2,20,2.9
+435 690 740,435[hook] + 690[X between brackets] + 740[jar (U with two ears)],3,19,9.93
+900 740,900[arc )] + 740[jar (U with two ears)],2,18,1.6
+255 435 690 740,255[hatched curved sign (horn/claw)] + 435[hook] + 690[X between brackets] + 740[jar (U with two ears)],4,18,17.02
+4 390,4[4 short strokes] + 390[three-pronged branch],2,17,4.09
+840 32 740,840[two intersecting ovals] + 32[2 long strokes] + 740[jar (U with two ears)],3,17,6.85
+550 527,550[hourglass with open side] + 527[half-ladder (comb)],2,17,5.63
+585 740,585[trident-arrow on stand] + 740[jar (U with two ears)],2,17,2.78
+740 1,740[jar (U with two ears)] + 1[1 short stroke],2,17,0.3
+2 233,2[2 short strokes] + 233[fish with fins (side strokes)],2,17,1.26
+2 3,2[2 short strokes] + 3[3 short strokes],2,16,1.5
+904 740,904[double arc ))] + 740[jar (U with two ears)],2,15,2.21
+233 520,233[fish with fins (side strokes)] + 520[arrow],2,15,2.69
+240 233,240[fish with cross-hatched body] + 233[fish with fins (side strokes)],2,15,2.51
+2 31,2[2 short strokes] + 31[1 long stroke],2,15,1.07
+2 4,2[2 short strokes] + 4[4 short strokes],2,15,2.32
+820 1,820[oval with spokes] + 1[1 short stroke],2,15,2.74
+590 405,590[square on post (standard)] + 405[branch with tines],2,15,4.5
+17 585,17[7 strokes (4 over 3)] + 585[trident-arrow on stand],2,15,6.92
+2 806,2[2 short strokes] + 806[leaf with veins (variant)],2,15,1.83
+405 740,405[branch with tines] + 740[jar (U with two ears)],2,14,1.41
+706 33 520,706[cup with inner dot] + 33[3 long strokes] + 520[arrow],3,14,9.76
+2 798,2[2 short strokes] + 798[two facing arcs],2,14,1.53
+70 520,70 + 520[arrow],2,14,4.83
+752 740,752[cup with two flags] + 740[jar (U with two ears)],2,14,3.02
+235 233,235[fish with roof (chevron above)] + 233[fish with fins (side strokes)],2,14,2.78
+233 705,233[fish with fins (side strokes)] + 705[cup with inner stroke],2,14,3.29
+233 705 33,233[fish with fins (side strokes)] + 705[cup with inner stroke] + 33[3 long strokes],3,14,9.17
+390 2,390[three-pronged branch] + 2[2 short strokes],2,14,0.6
+220 740 90,220[fish] + 740[jar (U with two ears)] + 90[standing man],3,13,5.88
+803 740,803[leaf with branching veins] + 740[jar (U with two ears)],2,13,0.49
+220 240,220[fish] + 240[fish with cross-hatched body],2,13,1.51
+798 240,798[two facing arcs] + 240[fish with cross-hatched body],2,13,2.86
+3 220,3[3 short strokes] + 220[fish],2,13,2.37
+806 154,806[leaf with veins (variant)] + 154[yoke-bearer variant],2,13,5.58
+590 405 740,590[square on post (standard)] + 405[branch with tines] + 740[jar (U with two ears)],3,13,7.5
+555 527,555 + 527[half-ladder (comb)],2,13,7.18
+798 415,798[two facing arcs] + 415[rake on pole],2,13,4.03
+2 231,2[2 short strokes] + 231[fish with inner dot],2,13,2.09
+2 61,2[2 short strokes] + 61[bent stroke (lambda)],2,12,2.27
+3 390,3[3 short strokes] + 390[three-pronged branch],2,12,2.67
+803 233,803[leaf with branching veins] + 233[fish with fins (side strokes)],2,12,3.24
+17 575,17[7 strokes (4 over 3)] + 575[pot on stand/bag],2,12,5.87
+575 740,575[pot on stand/bag] + 740[jar (U with two ears)],2,12,1.55
+17 575 740,17[7 strokes (4 over 3)] + 575[pot on stand/bag] + 740[jar (U with two ears)],3,12,9.08
+388 740,388[leafy branch] + 740[jar (U with two ears)],2,12,1.94
+368 2,368[flag] + 2[2 short strokes],2,11,1.53
+482 740,482 + 740[jar (U with two ears)],2,11,2.67
+920 740,920[arc with bulge] + 740[jar (U with two ears)],2,11,0.13
+142 617,142[man with ladder and stroke] + 617[grid (square)],2,11,5.96
+220 2,220[fish] + 2[2 short strokes],2,11,-0.17
+384 740,384 + 740[jar (U with two ears)],2,11,2.67
+240 520,240[fish with cross-hatched body] + 520[arrow],2,11,1.71
+32 590,32[2 long strokes] + 590[square on post (standard)],2,11,1.99
+17 585 740,17[7 strokes (4 over 3)] + 585[trident-arrow on stand] + 740[jar (U with two ears)],3,11,9.68
+741 240,741[jar with inner stroke] + 240[fish with cross-hatched body],2,11,1.99
+798 415 220,798[two facing arcs] + 415[rake on pole] + 220[fish],3,11,9.07
+2 176,2[2 short strokes] + 176[crab/claw sign],2,11,1.25
+2 220,2[2 short strokes] + 220[fish],2,10,-0.3
+61 740,61[bent stroke (lambda)] + 740[jar (U with two ears)],2,10,1.11
+2 16,2[2 short strokes] + 16[6 strokes (3 over 3)],2,10,2.68
+240 740,240[fish with cross-hatched body] + 740[jar (U with two ears)],2,10,-0.94
+460 740,460[three peaks] + 740[jar (U with two ears)],2,10,1.54
+255 740,255[hatched curved sign (horn/claw)] + 740[jar (U with two ears)],2,10,0.68
+2 415,2[2 short strokes] + 415[rake on pole],2,10,1.13
+840 740,840[two intersecting ovals] + 740[jar (U with two ears)],2,9,0.58
+320 920,320 + 920[arc with bulge],2,9,5.96
+60 240,60[two strokes and arc] + 240[fish with cross-hatched body],2,9,1.46
+55 740,55[12 strokes (3 rows of 4)] + 740[jar (U with two ears)],2,9,1.21
+415 220 520,415[rake on pole] + 220[fish] + 520[arrow],3,9,7.87
+176 100,176[crab/claw sign] + 100[man with appendages],2,9,3.72
+176 100 740,176[crab/claw sign] + 100[man with appendages] + 740[jar (U with two ears)],3,9,6.94
+32 226,32[2 long strokes] + 226[fish between stroke pairs],2,9,4.13
+455 220,455[double triangle on stroke] + 220[fish],2,9,3.7
+240 636,240[fish with cross-hatched body] + 636[box with inner marks],2,9,5.55
+32 740 400,32[2 long strokes] + 740[jar (U with two ears)] + 400[comb/rake (E-shaped)],3,9,4.11
+100 740 90,100[man with appendages] + 740[jar (U with two ears)] + 90[standing man],3,9,6.94
+861 2 240,861[diamond with chevron] + 2[2 short strokes] + 240[fish with cross-hatched body],3,9,5.62
+3 900,3[3 short strokes] + 900[arc )],2,9,3.8
+861 368,861[diamond with chevron] + 368[flag],2,9,2.93
+390 741,390[three-pronged branch] + 741[jar with inner stroke],2,9,1.85
+60 235,60[two strokes and arc] + 235[fish with roof (chevron above)],2,9,1.83
+740 679,740[jar (U with two ears)] + 679,2,9,2.8
+235 740,235[fish with roof (chevron above)] + 740[jar (U with two ears)],2,8,-0.9
+741 235,741[jar with inner stroke] + 235[fish with roof (chevron above)],2,8,1.89
+13 840,13[3 strokes (2 over 1)] + 840[two intersecting ovals],2,8,6.31
+861 2 32,861[diamond with chevron] + 2[2 short strokes] + 32[2 long strokes],3,8,5.25
+400 740,400[comb/rake (E-shaped)] + 740[jar (U with two ears)],2,8,-1.41
+2 1,2[2 short strokes] + 1[1 short stroke],2,8,0.12
+16 220,16[6 strokes (3 over 3)] + 220[fish],2,8,3.53
+240 220,240[fish with cross-hatched body] + 220[fish],2,8,0.81
+4 405,4[4 short strokes] + 405[branch with tines],2,8,4.71
+33 700,33[3 long strokes] + 700[cup (U-shape)],2,8,3.88
+861 2 798,861[diamond with chevron] + 2[2 short strokes] + 798[two facing arcs],3,8,6.53
+2 4 390,2[2 short strokes] + 4[4 short strokes] + 390[three-pronged branch],3,8,7.12
+636 740,636[box with inner marks] + 740[jar (U with two ears)],2,8,3.04
+240 636 740,240[fish with cross-hatched body] + 636[box with inner marks] + 740[jar (U with two ears)],3,8,8.59
+717 740,717 + 740[jar (U with two ears)],2,8,1.26
+222 740,222[fish in brackets] + 740[jar (U with two ears)],2,8,3.21
+520 400,520[arrow] + 400[comb/rake (E-shaped)],2,8,1.1
+2 590,2[2 short strokes] + 590[square on post (standard)],2,8,0.3
+2 590 390,2[2 short strokes] + 590[square on post (standard)] + 390[three-pronged branch],3,8,6.0
+158 400,158 + 400[comb/rake (E-shaped)],2,8,4.23
+4 407,4[4 short strokes] + 407[branch with tines (variant)],2,8,4.83
+32 220 240,32[2 long strokes] + 220[fish] + 240[fish with cross-hatched body],3,8,6.16
+817 2 235,817[oval with inverted-V] + 2[2 short strokes] + 235[fish with roof (chevron above)],3,8,6.21
+772 740,772 + 740[jar (U with two ears)],2,8,3.21
+806 235,806[leaf with veins (variant)] + 235[fish with roof (chevron above)],2,8,2.73
+31 2,31[1 long stroke] + 2[2 short strokes],2,8,0.16
+171 35,171 + 35[4 long strokes],2,8,8.87
+861 740,861[diamond with chevron] + 740[jar (U with two ears)],2,8,-1.01
+60 32,60[two strokes and arc] + 32[2 long strokes],2,8,1.1
+231 520,231[fish with inner dot] + 520[arrow],2,8,2.99
+125 390,125[man inside arc] + 390[three-pronged branch],2,7,3.12
+510 460,510 + 460[three peaks],2,7,8.03
+844 390,844 + 390[three-pronged branch],2,7,5.51
+368 1,368[flag] + 1[1 short stroke],2,7,2.79
+803 235,803[leaf with branching veins] + 235[fish with roof (chevron above)],2,7,2.3
+16 390,16[6 strokes (3 over 3)] + 390[three-pronged branch],2,7,3.76
+142 740,142[man with ladder and stroke] + 740[jar (U with two ears)],2,7,0.85
+240 740 90,240[fish with cross-hatched body] + 740[jar (U with two ears)] + 90[standing man],3,7,5.25
+90 400,90[standing man] + 400[comb/rake (E-shaped)],2,7,1.89
+2 5,2[2 short strokes] + 5[5 short strokes],2,7,2.02
+5 900,5[5 short strokes] + 900[arc )],2,7,5.14
+5 900 740,5[5 short strokes] + 900[arc )] + 740[jar (U with two ears)],3,7,8.36
+176 740 400,176[crab/claw sign] + 740[jar (U with two ears)] + 400[comb/rake (E-shaped)],3,7,5.1
+817 2 240,817[oval with inverted-V] + 2[2 short strokes] + 240[fish with cross-hatched body],3,7,5.65
+455 740,455[double triangle on stroke] + 740[jar (U with two ears)],2,7,1.27
+61 142,61[bent stroke (lambda)] + 142[man with ladder and stroke],2,7,5.24
+440 740,440[inverted L (staff)] + 740[jar (U with two ears)],2,7,1.16
+741 32,741[jar with inner stroke] + 32[2 long strokes],2,7,1.14
+140 920,140[winged insect] + 920[arc with bulge],2,7,3.29
+2 17,2[2 short strokes] + 17[7 strokes (4 over 3)],2,7,1.43
+877 740,877 + 740[jar (U with two ears)],2,7,2.32
+741 590,741[jar with inner stroke] + 590[square on post (standard)],2,7,1.99
+817 368,817[oval with inverted-V] + 368[flag],2,7,2.97
+845 407,845[intersecting circles with marks] + 407[branch with tines (variant)],2,7,6.64
+773 740,773 + 740[jar (U with two ears)],2,7,3.21
+460 798,460[three peaks] + 798[two facing arcs],2,7,4.44
+235 590,235[fish with roof (chevron above)] + 590[square on post (standard)],2,7,1.9
+220 233,220[fish] + 233[fish with fins (side strokes)],2,7,1.15
+2 705,2[2 short strokes] + 705[cup with inner stroke],2,7,0.32
+806 240,806[leaf with veins (variant)] + 240[fish with cross-hatched body],2,7,2.17
+65 220,65 + 220[fish],2,7,4.77
+1 3,1[1 short stroke] + 3[3 short strokes],2,7,2.22
+861 2 235,861[diamond with chevron] + 2[2 short strokes] + 235[fish with roof (chevron above)],3,7,5.62
+820 2 32,820[oval with spokes] + 2[2 short strokes] + 32[2 long strokes],3,7,5.09
+820 2 803,820[oval with spokes] + 2[2 short strokes] + 803[leaf with branching veins],3,7,6.33
+235 705,235[fish with roof (chevron above)] + 705[cup with inner stroke],2,6,1.9
+235 705 33,235[fish with roof (chevron above)] + 705[cup with inner stroke] + 33[3 long strokes],3,6,7.78
+13 840 740,13[3 strokes (2 over 1)] + 840[two intersecting ovals] + 740[jar (U with two ears)],3,6,9.11
+2 3 390,2[2 short strokes] + 3[3 short strokes] + 390[three-pronged branch],3,6,5.79
+60 31,60[two strokes and arc] + 31[1 long stroke],2,6,1.4
+240 100,240[fish with cross-hatched body] + 100[man with appendages],2,6,1.99
+740 151,740[jar (U with two ears)] + 151[man carrying two pots (yoke-bearer)],2,6,-0.01
+240 100 740,240[fish with cross-hatched body] + 100[man with appendages] + 740[jar (U with two ears)],3,6,5.2
+101 740,101 + 740[jar (U with two ears)],2,6,2.99
+235 520,235[fish with roof (chevron above)] + 520[arrow],2,6,1.2
+320 920 740,320 + 920[arc with bulge] + 740[jar (U with two ears)],3,6,8.58
+590 407,590[square on post (standard)] + 407[branch with tines (variant)],2,6,3.3
+480 1,480 + 1[1 short stroke],2,6,5.03
+861 2 31,861[diamond with chevron] + 2[2 short strokes] + 31[1 long stroke],3,6,5.55
+3 220 740,3[3 short strokes] + 220[fish] + 740[jar (U with two ears)],3,6,4.47
+335 740,335 + 740[jar (U with two ears)],2,6,1.89
+455 220 2,455[double triangle on stroke] + 220[fish] + 2[2 short strokes],3,6,7.23
+590 892,590[square on post (standard)] + 892[D-shape with stroke],2,6,3.75
+220 176,220[fish] + 176[crab/claw sign],2,6,1.55
+240 415,240[fish with cross-hatched body] + 415[rake on pole],2,6,1.83
+233 740,233[fish with fins (side strokes)] + 740[jar (U with two ears)],2,6,-1.14
+467 806,467 + 806[leaf with veins (variant)],2,6,6.61
+233 176,233[fish with fins (side strokes)] + 176[crab/claw sign],2,6,2.35
+503 17,503[hatched cone] + 17[7 strokes (4 over 3)],2,6,5.07
+806 158,806[leaf with veins (variant)] + 158,2,6,5.25
+1 4,1[1 short stroke] + 4[4 short strokes],2,6,2.91
+400 520,400[comb/rake (E-shaped)] + 520[arrow],2,6,0.68
+2 503,2[2 short strokes] + 503[hatched cone],2,6,1.66
+240 231,240[fish with cross-hatched body] + 231[fish with inner dot],2,6,2.41
+615 740,615[grid (rectangle)] + 740[jar (U with two ears)],2,6,1.21
+231 705,231[fish with inner dot] + 705[cup with inner stroke],2,6,3.28
+231 705 33,231[fish with inner dot] + 705[cup with inner stroke] + 33[3 long strokes],3,6,9.16
+220 590,220[fish] + 590[square on post (standard)],2,6,1.05
+817 2 233,817[oval with inverted-V] + 2[2 short strokes] + 233[fish with fins (side strokes)],3,6,5.96
+32 877,32[2 long strokes] + 877,2,6,4.24
+32 877 740,32[2 long strokes] + 877 + 740[jar (U with two ears)],3,6,7.45
+337 740,337 + 740[jar (U with two ears)],2,6,2.8
+336 740,336 + 740[jar (U with two ears)],2,6,2.99
+240 55,240[fish with cross-hatched body] + 55[12 strokes (3 rows of 4)],2,6,2.96
+590 740,590[square on post (standard)] + 740[jar (U with two ears)],2,6,-1.02
+235 220,235[fish with roof (chevron above)] + 220[fish],2,6,0.76
+2 140,2[2 short strokes] + 140[winged insect],2,6,0.7
+705 255,705[cup with inner stroke] + 255[hatched curved sign (horn/claw)],2,6,3.15
+927 740,927 + 740[jar (U with two ears)],2,6,2.99
+503 460,503[hatched cone] + 460[three peaks],2,6,5.57
+60 742,60[two strokes and arc] + 742[jar with three-pronged ears],2,6,3.71
+920 60 742,920[arc with bulge] + 60[two strokes and arc] + 742[jar with three-pronged ears],3,6,10.2
+2 415 100,2[2 short strokes] + 415[rake on pole] + 100[man with appendages],3,6,7.27
+2 415 100 740,2[2 short strokes] + 415[rake on pole] + 100[man with appendages] + 740[jar (U with two ears)],4,6,10.49
